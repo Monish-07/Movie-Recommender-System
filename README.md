@@ -1,6 +1,6 @@
 # Movie_Recommender_System
 
-## **Description:**
+## Description:
 The Movie Recommender System is a Python-based project that recommends movies to users based on their preferences. It leverages natural language processing (NLP) and machine learning techniques to analyze movie data and provide personalized recommendations.
 
 ## **Project Components and Steps:**
