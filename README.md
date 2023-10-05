@@ -36,11 +36,11 @@ Users can access the web application, choose a movie they like, and receive a li
 ## **Purpose:**
 The Movie Recommender System is designed to assist movie enthusiasts in discovering new movies that match their preferences. It provides personalized recommendations based on the content and characteristics of movies, making it easier for users to find films they may enjoy.
 
-## **Future Improvements:**
-This project can be extended and enhanced in various ways, including:
-- Incorporating user ratings and collaborative filtering for more personalized recommendations.
-- Implementing user authentication and profiles.
-- Integrating external movie databases for a broader selection of movies.
-- Enhancing the user interface and design.
-
 Overall, the Movie Recommender System is a practical application of data preprocessing, NLP, and machine learning techniques to create a user-friendly movie recommendation tool. It can help users discover new movies and enhance their movie-watching experience.
+
+![Initial](https://github.com/Monish-07/Movie_Recommender_System/assets/95215581/bd5cccee-8005-477f-aba6-a2bbe2a351e8)
+![Intermediate](https://github.com/Monish-07/Movie_Recommender_System/assets/95215581/49f0a9de-e08b-495c-aacc-701fbd934f80)
+![Final](https://github.com/Monish-07/Movie_Recommender_System/assets/95215581/0dd76208-48c8-4e27-92bb-238d5272421e)
+
+
+
